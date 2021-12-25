@@ -1,0 +1,35 @@
+.my_header{
+    background-color: #2f3d46;
+    color:#e2e6df;
+    justify-content:start;
+    align-items: center;  
+}
+.my-doc{
+    background-color: #cad2c5;
+ }
+.my-color{
+    background-color:#353535;
+    color:rgba(255, 255, 255, 0.774);     
+}
+.s1{
+    margin:50px 30px 50px 20px;
+    padding:15px 15px 15px 15px;
+    height:80%;
+    border-radius: 10px;
+}
+ .s2{
+    margin:50px 20px 5px 2px;
+    padding:2px 4px 2px 4px;
+    font-size:medium;
+    border-radius: 5px;
+}
+.s3{
+    margin:50px 30px 5px 2px;
+    padding:60px 0px 80px 0px;
+    border-radius: 8px; 
+}
+.s4{
+   margin:50px 30px 50px 2px;
+   padding:60px 0px 60px 0px;
+   border-radius: 8px; 
+} 
